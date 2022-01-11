@@ -1,0 +1,19 @@
+.inputOptions{
+    display: flex;
+    margin-top:15px;
+    align-items: center;
+    color:gray;
+    padding:10px;
+    cursor: pointer;
+}
+
+.inputOptions:hover{
+    background-color: whitesmoke;
+    border-radius: 10px;
+    transition: all 0.25s;
+}
+
+.inputOptions>h5{
+    margin-left:5px;
+
+}
